@@ -2,7 +2,7 @@
 
 Hướng dẫn này được xây dựng dựa trên [tài liệu chính thức của DMOJ](https://docs.dmoj.ca/). Trong quá trình cài đặt, một số bước đã được lược bỏ để đơn giản hóa việc cài đặt.
 
-> Các thông số đã được cấu hình tự động để quá trình cài đặt diễn ra nhanh hơn. Thông tin các file cấu hình có thể tham khảo [tại đây](https://github.com/VietThienTran/DeploymentTools/tree/main/VNOJ/sample-config)
+> Các thông số đã được cấu hình tự động để quá trình cài đặt diễn ra nhanh hơn. Thông tin các file cấu hình có thể tham khảo [tại đây](https://github.com/Thanhdev394/DeploymentTools/tree/main/VNOJ/sample-config)
 
 ## Chuẩn bị môi trường cài đặt
 ### Một số yêu cầu về hệ thống:
@@ -30,9 +30,9 @@ Tùy theo thực tế và nhu cầu sử dụng, cấu hình và các thông s�
 ## Cài đặt Site và Judge tự động - One-click deployment
 Tải về file cài đặt tự động và các file cấu hình mẫu.
 ```
-wget https://raw.githubusercontent.com/VietThienTran/DeploymentTools/main/VNOJ/sample-config/auto-install.sh
-wget https://raw.githubusercontent.com/VietThienTran/DeploymentTools/main/VNOJ/sample-config/local_settings.py
-wget https://raw.githubusercontent.com/VietThienTran/DeploymentTools/main/VNOJ/sample-config/judge01.yml
+wget https://raw.githubusercontent.com/Thanhdev394/DeploymentTools/main/VNOJ/sample-config/auto-install.sh
+wget https://raw.githubusercontent.com/Thanhdev394/DeploymentTools/main/VNOJ/sample-config/local_settings.py
+wget https://raw.githubusercontent.com/Thanhdev394/DeploymentTools/main/VNOJ/sample-config/judge01.yml
 ```
 Thay thế một số thông số cho phù hợp với hệ thống.
 - User Ubuntu
